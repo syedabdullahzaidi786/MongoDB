@@ -1,4 +1,4 @@
-![Logo](https://www.bloorresearch.com/wp-content/uploads/2013/03/MONGO-DB-logo-300x470--x.png)
+![Logo](https://webimages.mongodb.com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png)
 
 # MongoDB Setup and Common Commands Guide
 
